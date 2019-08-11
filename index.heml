@@ -1,7 +1,8 @@
-<!DOCTPYE>
+<!DOCTPYE html>
 <heml>
 <head>
-<tittle>hello github</tittle>
+	<meta charset="utd-8"
+	<tittle>hello github</tittle>
 </head>
 <body>
 	<h1>Hello,wlcome Github.</h1>
